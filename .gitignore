@@ -1,0 +1,45 @@
+*.orig
+*.class
+*.log
+.jvmopts
+.sbtopts
+
+# Worksheets
+*.sc
+
+# Node
+node_modules/**
+
+#Personal commit file formatted
+commit_all_formatted.sh
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+log/
+
+# Scala-IDE specific
+.scala_dependencies
+
+#Intellij-IDEA specific
+.idea/**
+.bsp/**
+
+#Metals
+.bloop/**
+project/.bloop/
+metals.sbt
+.metals
+.vscode
+
+#Eclipse
+.classpath
+.project
+.settings/
+.DS_Store
+.cache
+project/project/
