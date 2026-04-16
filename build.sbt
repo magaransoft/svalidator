@@ -3,7 +3,7 @@ import sbtrelease.ReleaseStateTransformations.*
 organization := "com.magaran"
 pgpSigningKey := Some("E20C31E38E557DEEC82006986DC61FDE08C36DE2")
 
-name := "SValidator"
+name := "svalidator"
 
 description := "A library for validation and data binding of scala objects in a fluent and concise manner"
 
