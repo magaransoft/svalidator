@@ -43,3 +43,5 @@ metals.sbt
 .DS_Store
 .cache
 project/project/
+.envrc
+.direnv/
