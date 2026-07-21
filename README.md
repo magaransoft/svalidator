@@ -14,7 +14,7 @@ Installation
 SValidator is published to Maven Central for Scala 3. Add the following to your `build.sbt`:
 
 ```scala
-libraryDependencies += "com.magaran" %% "svalidator" % "0.1.0"
+libraryDependencies += "com.magaran" %% "svalidator" % "0.2.0"
 ```
 
 Quick Usage
